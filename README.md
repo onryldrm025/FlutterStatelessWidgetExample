@@ -1,4 +1,4 @@
-# kendi_widgetiniz
+# Self_widget
 
 A new Flutter project.
 
